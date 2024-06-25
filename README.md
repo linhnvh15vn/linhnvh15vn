@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/linhnvh15vn/linhnvh15vn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/linhnvh15vn/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
