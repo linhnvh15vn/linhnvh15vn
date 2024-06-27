@@ -15,29 +15,26 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/c-sharp.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/react-query-icon.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/visual-studio.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30" alt="csharp logo"  />
+  <img align="left" src="https://cdn.svgporn.com/logos/javascript.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/react.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/html-5.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/css-3.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/c-sharp.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/react-query-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/visual-studio.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/postgresql.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/ant-design.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/zod.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/sass.svg" width="32" height="32" />
+  <img align="left" src="https://cdn.svgporn.com/logos/pnpm.svg" width="32" height="32" />
+  <img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="32" height="32" />
+  <img src="https://cdn.svgporn.com/logos/yarn.svg" width="32" height="32" />
 </div>
 
 ###
