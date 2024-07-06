@@ -37,11 +37,11 @@
   <img width="12" />
   <img src="https://cdn.svgporn.com/logos/material-ui.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/sass.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.svgporn.com/logos/sass.svg" height="30" alt="sass logo"  />
 </div>
 
 ###
