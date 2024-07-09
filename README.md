@@ -1,5 +1,7 @@
 <h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+<img src="./assets/header_.png" />
+
 ###
 
 <div align="center">
@@ -10,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.svgporn.com/logos/react.svg"  />
+<img align="right" height="192" src="./assets/cat_1.jpg"  />
 
 ###
 
