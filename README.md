@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="192" src="./assets/cat_1.jpg"  />
+<img align="right" height="224" src="./assets/cat_2.jpg"  />
 
 ###
 
