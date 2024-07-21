@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.svgporn.com/logos/react.svg" height="32" alt="react"  />
   <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="32" alt="tailwindcss"  />
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="32" alt=""  />
   <img width="12" />
   <img src="https://cdn.svgporn.com/logos/ant-design.svg" height="32" alt="antd"  />
   <img width="12" />
