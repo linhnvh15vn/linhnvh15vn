@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linhnvh15vn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=linhnvh15vn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linhnvh15vn&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linhnvh15vn&show_icons=true&include_all_commits=true&theme=dracula&locale=en" height="152" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=linhnvh15vn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="152" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linhnvh15vn&locale=en&layout=compact&langs_count=5&theme=dracula" height="152" alt="languages graph" />
 </div>
 
 ---
