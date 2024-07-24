@@ -10,24 +10,67 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linhnvh15vn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <img align="right" height="224" src="./assets/cat_2.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/react.svg" height="32" alt="react"  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="32" alt=""  />
-  <img width="12" />
-  <img src="https://cdn.svgporn.com/logos/ant-design.svg" height="32" alt="antd"  />
-  <img width="12" />
+
+### Languages:
+
+<img align="left" src="https://cdn.svgporn.com/logos/javascript.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/c-sharp.svg" width="32" height="32" />
+<br />
+
+### Tools:
+
+<img align="left" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/visual-studio.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/postman-icon.svg" width="32" height="32" />
+<br />
+
+### Libraries and Frameworks:
+
+<img align="left" src="https://cdn.svgporn.com/logos/react.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/react-query-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/redux.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/vue.svg" width="32" height="32" />
+<img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/ant-design.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/bootstrap.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/nestjs.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/laravel.svg" width="32" height="32" />
+<br />
+
+### Databases:
+
+<img align="left" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/postgresql.svg" width="32" height="32" />
+<br />
+
+### Others:
+
+<img align="left" src="https://cdn.svgporn.com/logos/yarn.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/npm-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/nvm.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/eslint.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/prettier.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/html-5.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/css-3.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/daisyUI.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/headlessui-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/zod.svg" width="32" height="32" />
+<br />
+
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
